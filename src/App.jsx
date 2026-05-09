@@ -1,5 +1,7 @@
 import QuizElektronika from "./QuizElektronika";
 
-export default function App() {
+function App() {
   return <QuizElektronika />;
 }
+
+export default App;
