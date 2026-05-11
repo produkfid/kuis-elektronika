@@ -36,7 +36,7 @@ const questions = [
   { category: "Acara 5", points: 8, question: "Efek apa yang terdapat pada sensor LM35 yang dapat memengaruhi hasil pengukuran?", options: ["Efek induksi", "Efek kapasitif", "Efek self-heating", "Efek resonansi"], answer: "C" },
   { category: "Acara 5", points: 8, question: "Sensor apa yang digunakan dalam praktikum ini?", options: ["DHT11", "Termokopel", "LM35", "LDR"], answer: "C" },
   { category: "Acara 5", points: 8, question: "Alat dan bahan apa yang digunakan pada praktikum kali ini?", options: ["LM016L, Arduino UNO, Sensor suhu LM35", "Multimeter, Osiloskop, Generator sinyal", "Motor DC, Relay, Baterai", "Termokopel, Transformator, Amperemeter"], answer: "A" },
-  { category: "Acara 5", points: 8, question: "Berapakah tingkat ketidaklinieran (non-linearity) pada sensor LM35?", options: ["±5°C", "±1°C", "±½°C", "±¼°C"], answer: "C" },
+  { category: "Acara 5", points: 8, question: "Berapakah tingkat ketidaklinieran (non-linearity) pada sensor LM35?", options: ["±5°C", "±1°C", "±½°C", "±¼°C"], answer: "D" },
 ];
 
 const LABELS      = ["A", "B", "C", "D"];
