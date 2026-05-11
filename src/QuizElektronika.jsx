@@ -45,7 +45,7 @@ const TOTAL_POINTS = questions.reduce((s, q) => s + q.points, 0);
 // ── URL Google Apps Script terbaru ──────────────────────────────────────────
 const GOOGLE_SCRIPT_URL =
   "https://script.google.com/macros/s/AKfycbx0H8WPRLb73B5WI-TRECtLCg6gc_UVq9VkBBszYRgKuF98p60izBVzA2cB_pvNwXfi/exec";
-const VALID_UNLOCK_CODES = ["A1C024", "A1C025"];
+const VALID_UNLOCK_CODES = ["A1C020", "B1C020", "C1C020"];
 
 const OPTION_COLORS = [
   { bg: "#EBF4FF", border: "#93C5FD", selBg: "#3B82F6", selBorder: "#1D4ED8", text: "#1E40AF", selText: "#FFFFFF", dot: "#3B82F6" },
